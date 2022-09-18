@@ -1,4 +1,4 @@
 Name: Trieu
-Hoppy: laptrinh, lam het
-dacapnhat
-cap nhat lan 2
+Hoppy: Lap trinh
+University: BK, HCMC
+Year: 3rd
